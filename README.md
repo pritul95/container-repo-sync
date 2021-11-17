@@ -20,6 +20,3 @@ Here's an example of job step.
 ## LICENSE
 
 Licensed under MIT, see [LICENSE](LICENSE.md)
-
-
-
