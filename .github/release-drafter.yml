@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: container-repo-sync-$NEXT_MINOR_VERSION

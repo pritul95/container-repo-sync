@@ -1,0 +1,7 @@
+work/**
+target/**
+.vscode/**
+.settings
+.classpath
+.factorypath
+.project
