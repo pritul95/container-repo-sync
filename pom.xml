@@ -16,10 +16,10 @@
         <changelist>-SNAPSHOT</changelist>
         <jenkins.version>2.277.1</jenkins.version>
         <java.level>8</java.level>
-        <gitHubRepo>pritul95/container-repo-sync</gitHubRepo>    </properties>
+        <gitHubRepo>jenkinsci/${project.artifactId}-plugin</gitHubRepo>    </properties>
     <name>Container Repositories Sync</name>
     <description> Container Repositories Sync Plugin - sync's tags between two container repositories e.g syncing tag between docker hub and ecr</description>
-    <url>https://github.com/pritul95/container-repo-sync</url>
+    <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
 
     <dependencyManagement>
         <dependencies>
